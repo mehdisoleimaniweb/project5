@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: weball;
+    src: url("../fonts/SairaCondensed-Medium.ttf") format("opentype");
+  }
